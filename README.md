@@ -1,4 +1,4 @@
-<h1>🧮 Scientific Calculator</h1>
+<h1>Scientific Calculator</h1>
 <p>
   A powerful <strong>scientific calculator web app</strong> built with 
   <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.<br />
